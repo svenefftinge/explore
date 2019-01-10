@@ -17,6 +17,7 @@ items:
  - zedapp/zed
  - Microsoft/vscode
  - zyedidia/micro
+ - theia-ide/theia
 display_name: Text editors
 created_by: leereilly
 image: text-editors.png
